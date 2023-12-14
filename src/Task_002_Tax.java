@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tax {
+public class Task_002_Tax {
 
 
     public static void main(String[] args) {

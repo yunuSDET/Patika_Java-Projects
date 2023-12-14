@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Average {
+public class Task_001_Average {
 
     public static void main(String[] args) {
 

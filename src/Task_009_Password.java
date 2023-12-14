@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Password {
+public class Task_009_Password {
 
     public static void main(String[] args) {
 

@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class Greengrocer {
+public class Task_007_Greengrocer {
 
     public static void main(String[] args) {
 

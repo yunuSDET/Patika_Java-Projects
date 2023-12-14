@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Calculator {
+public class Task_008_Calculator {
 
 
 

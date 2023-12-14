@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Circle {
+public class Task_005_Circle {
 
     public static void main(String[] args) {
 
