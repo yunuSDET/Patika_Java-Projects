@@ -40,6 +40,5 @@ public class Task_003_Hypotenuse {
         System.out.println("The area of the triangle: "+area);
 
 
-
     }
 }

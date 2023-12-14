@@ -19,6 +19,5 @@ public class Task_004_Taximeter {
         System.out.println("The amount for "+km+" km is :"+amount);
 
 
-
     }
 }

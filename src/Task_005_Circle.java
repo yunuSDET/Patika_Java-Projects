@@ -15,6 +15,5 @@ public class Task_005_Circle {
 
         System.out.println("area = " + area);
         System.out.println("perimeter = " + perimeter);
-
     }
 }

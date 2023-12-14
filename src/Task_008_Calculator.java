@@ -42,7 +42,6 @@ public class Task_008_Calculator {
         }
 
         System.out.println(result);
-
     }
 
 }

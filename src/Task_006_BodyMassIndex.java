@@ -15,6 +15,5 @@ public class Task_006_BodyMassIndex {
         double BMI = weight/(Math.pow(height,2));
         System.out.println("Your Body Mass Index (BMI) is: "+BMI);
 
-
     }
 }

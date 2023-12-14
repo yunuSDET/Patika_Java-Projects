@@ -20,9 +20,5 @@ public class Task_001_Average {
 
 
 
-
-
-
-
     }
 }

@@ -25,6 +25,5 @@ public class Task_007_Greengrocer {
 
         System.out.println("Total amount is: "+sum+" ₺");
 
-
     }
 }

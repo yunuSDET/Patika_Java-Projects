@@ -17,7 +17,6 @@ public class Task_002_Tax {
         System.out.println("Amount with the tax: "+(amount+(amount*taxRate)));
         System.out.println("Amount of the tax: "+(amount*taxRate));
 
-
     }
 
 
