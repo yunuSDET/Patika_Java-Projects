@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HarmonicNumbers {
+public class Task_024_HarmonicNumbers {
 
     public static void main(String[] args) {
 

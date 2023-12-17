@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Combination {
+public class Task_023_Combination {
 
     public static void main(String[] args) {
 
