@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task_041_HarmonicMean {
+public class Task_042_HarmonicMean {
 
     public static void main(String[] args) {
 
